@@ -17,14 +17,14 @@
 </h6><p>if already installed than skiped</p>
 
 <h6>Setp 2 -></h6><p>Clone or download the zip of our project</p>
-<a href="https://github.com/Karimansari4/Team-Career-Camp.git">Git Repo Link</a>
+<a href="https://github.com/Karimansari4/dropdown.git">Git Repo Link</a>
 <h6>Setp 3 -></h6><p>Extract the zip and go to root directory of project</p>
 <h6>Setp 4 -></h6><p>Open CMD and type <h6>npm i</h6> it will install all the dependencies</p>
 <h6>Setp 5 -></h6><p>Than type on same CMD npm start</p>
 
 <p>Project is setedup and runinng on localhost:4000/</p>
 
-<h3>Demo Link -> <a href="https://team-career-camp.onrender.com">Click here</a></h3>
+<h3>Demo Link -> <a href="https://648ae1760f696a00856adb07--monumental-maamoul-cb4a5d.netlify.app/">Click here</a></h3>
 
 
 # Getting Started with Create React App
