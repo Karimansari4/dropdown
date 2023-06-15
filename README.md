@@ -1,3 +1,57 @@
+<h1 align="center">React Dropdown</h1> <br/><br/>
+
+<h4>Project Detail</h4>
+<p>Create a simple dropdown component using React.</p>
+
+
+<h5>Main Features</h5>
+<ul>
+    <li>On hovering of the button, show the drop down items.</li>
+    <li>The dropdown component should receive the items array to display the items in the list.</li>
+    <li>On click of an option in dropdown list, close the dropdown.</li>
+</ul>
+
+
+<h3>HOW TO INSTALL AND SETUP IN YOUR LOCAL PC/LAPTOP</h3>
+<h6>Setp 1 -></h6> <p>First goto <a href="https://nodejs.org/en">Node js official website</a> to download node js in your pc/laptop</p>
+</h6><p>if already installed than skiped</p>
+
+<h6>Setp 2 -></h6><p>Clone or download the zip of our project</p>
+<a href="https://github.com/Karimansari4/Team-Career-Camp.git">Git Repo Link</a>
+<h6>Setp 3 -></h6><p>Extract the zip and go to root directory of project</p>
+<h6>Setp 4 -></h6><p>Open CMD and type <h6>npm i</h6> it will install all the dependencies</p>
+<h6>Setp 5 -></h6><p>Than type on same CMD npm start</p>
+
+<p>Project is setedup and runinng on localhost:4000/</p>
+
+<h3>Demo Link -> <a href="https://team-career-camp.onrender.com">Click here</a></h3>
+
+
+# Getting Started with Create React App
+
+<h6>Setp 1 -></h6><p>Clone or download the zip of our project</p>
+
+<h6>Setp 2 -></h6><p>Extract the zip</p>
+
+<h6>Setp 3 -></h6><p>Go to dropdown directory and open cmd and type</p> <h6>npm i</h6> <p>It will install all the dependencies of React</p>
+
+<h6>Set 4 -></h6><p>Than type on same CMD npm run start</p>
+
+<p>It will automatically redirect to Browser in localhost:3000</p>
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,27 +98,3 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
