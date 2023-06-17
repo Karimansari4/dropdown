@@ -12,7 +12,7 @@
 </ul>
 
 
-<h3>HOW TO INSTALL AND SETUP IN YOUR LOCAL PC/LAPTOP</h3>
+# HOW TO INSTALL AND SETUP IN YOUR LOCAL PC/LAPTOP
 <h6>Setp 1 -></h6> <p>First goto <a href="https://nodejs.org/en">Node js official website</a> to download node js in your pc/laptop</p>
 </h6><p>if already installed than skiped</p>
 
